@@ -3024,7 +3024,7 @@
 						"watch" : 0
 					}
 ,
-					"text" : "node.script twitch_synth2.js"
+					"text" : "node.script twitch_bot.js"
 				}
 
 			}
@@ -3122,7 +3122,7 @@
 				"implicit" : 1
 			}
 , 			{
-				"name" : "twitch_synth2.js",
+				"name" : "twitch_bot.js",
 				"bootpath" : "~/Documents/twitch_synth",
 				"patcherrelativepath" : ".",
 				"type" : "TEXT",
